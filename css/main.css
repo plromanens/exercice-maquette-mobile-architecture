@@ -48,11 +48,18 @@ h2 {
   font-size: 30px;
   color: #000000;
   letter-spacing: 0;
+  margin-bottom: 6px;
 }
 
 nav {
+  margin: 20px 215px 0px 8px;
+}
+
+nav a {
   font-size: 16px;
   color: #000000;
+  text-decoration: none;
+  margin-right: 11px;
 }
 
 p,
@@ -84,4 +91,8 @@ footer a {
 
 div {
   margin: 54px 77px 0px 7px;
+}
+
+.specification {
+  margin-top: -5px;
 }
